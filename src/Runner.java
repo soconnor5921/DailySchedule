@@ -14,7 +14,5 @@ public class Runner
 
         System.out.println(Calendar.addAppt(OneA, false));
         System.out.println(Calendar.addAppt(TwoB, false));
-
-        Calendar.getSchedule;
     }
 }
